@@ -2,16 +2,24 @@
     {
         "origen": "C:/Users/HP/Documents/ESCRITORIO/2025-2",
         "destino": "E:/W-2025-2/DIARIO",
-        "inclusiones": [],
-        "ultimo_respaldo": "2025-08-17T08:17:44.833350"
+        "exclusiones": [],
+        "ultimo_respaldo": "2025-08-17T14:58:56.336947"
     },
     {
         "origen": "C:/Users/HP/Documents/ESCRITORIO",
         "destino": "E:/W-2025-2/DIRECTORIO",
-        "inclusiones": [
+        "exclusiones": [
             "2025-1",
             "2025-2"
         ],
-        "ultimo_respaldo": null
+        "ultimo_respaldo": "2025-08-17T14:44:54.585238"
+    },
+    {
+        "origen": "C:/Users/HP/Documents",
+        "destino": "E:/W-2025-2/DOCUMENTOS",
+        "exclusiones": [
+            "ESCRITORIO"
+        ],
+        "ultimo_respaldo": "2025-08-17T15:10:52.190229"
     }
 ]
