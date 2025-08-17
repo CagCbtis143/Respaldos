@@ -1,0 +1,17 @@
+[
+    {
+        "origen": "C:/Users/HP/Documents/ESCRITORIO/2025-2",
+        "destino": "E:/W-2025-2/DIARIO",
+        "inclusiones": [],
+        "ultimo_respaldo": "2025-08-17T08:17:44.833350"
+    },
+    {
+        "origen": "C:/Users/HP/Documents/ESCRITORIO",
+        "destino": "E:/W-2025-2/DIRECTORIO",
+        "inclusiones": [
+            "2025-1",
+            "2025-2"
+        ],
+        "ultimo_respaldo": null
+    }
+]
